@@ -1,0 +1,10 @@
+C:\Users\als\Desktop\VS_Code\CRUD\bin\Debug\netcoreapp2.0\CRUD.deps.json
+C:\Users\als\Desktop\VS_Code\CRUD\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.json
+C:\Users\als\Desktop\VS_Code\CRUD\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.dev.json
+C:\Users\als\Desktop\VS_Code\CRUD\bin\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\als\Desktop\VS_Code\CRUD\bin\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\als\Desktop\VS_Code\CRUD\obj\Debug\netcoreapp2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\als\Desktop\VS_Code\CRUD\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\als\Desktop\VS_Code\CRUD\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfo.cs
+C:\Users\als\Desktop\VS_Code\CRUD\obj\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\als\Desktop\VS_Code\CRUD\obj\Debug\netcoreapp2.0\CRUD.pdb

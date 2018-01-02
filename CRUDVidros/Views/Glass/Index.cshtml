@@ -1,0 +1,37 @@
+@model IEnumerable<CRUD.Models.Glass>
+<a href="Glass/Create">Cadastrar Vidro</a>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Composição</th>
+                <th>Milimetros</th>
+                <th>Quantidade</th>
+                <th>Altura</th>
+                <th>Largura</th>
+                <th>Fornecedor</th>
+                <th>Nº Nota Fiscal</th>
+                <th></th>
+                <th></th>
+            </tr>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.composition</td>
+                <td>@item.millim</td>
+                <td>@item.amount</td>
+                <td>@item.height</td>
+                <td>@item.width</td>
+                <td>@item.provider</td>
+                <td>@item.invoice</td>
+                <td><a class="btn btn-danger" href="Glass/Delete/@item.id">Deletar</a> </td>
+                <td><a class="btn btn-primary" href="Glass/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
